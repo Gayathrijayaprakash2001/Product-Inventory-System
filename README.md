@@ -1,6 +1,9 @@
+The Product Inventory  Management System
+
 The Product Inventory System is a simple yet powerful application designed to streamline inventory management. The system allows users to add, update, delete, and view products in the inventory, ensuring accurate tracking of stock levels. Built with Django and SQLite, the app offers a scalable solution for managing product data, inventory levels, and customer orders.
 
 Features
+
 Product Management: Add, edit, and delete products with details such as name, description, price, and quantity.
 
 Stock Tracking: Track inventory levels and monitor stock status (low, in stock, out of stock).
