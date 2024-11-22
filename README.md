@@ -2,15 +2,24 @@ The Product Inventory System is a simple yet powerful application designed to st
 
 Features
 Product Management: Add, edit, and delete products with details such as name, description, price, and quantity.
+
 Stock Tracking: Track inventory levels and monitor stock status (low, in stock, out of stock).
+
 Category Organization: Categorize products into different types (e.g., electronics, clothing, etc.).
+
 SQLite Database: Simple, lightweight database for storing product and inventory data.
+
 Admin Panel: Easy-to-use admin interface to manage products and user access.
 
 
 Technologies Used
+
 Django: A high-level Python web framework used for building the back-end.
+
 SQLite: A lightweight database engine used for storing inventory and product data.
+
 Bootstrap: A front-end framework used for creating responsive user interfaces.
+
 HTML, CSS, JavaScript: For building the structure and functionality of the web pages.
+
 Python: Core programming language used for the back-end logic.
